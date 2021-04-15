@@ -1,5 +1,7 @@
 # golang docker environment
 
+注意：環境によっては以下のコマンド全てにsudo権限が必要かも
+
 ## 初回環境構築
 
 ### イメージを作成
